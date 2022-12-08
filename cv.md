@@ -26,6 +26,7 @@ I believe that by learning new things and developing my skills, I can succeed an
 * HTML, CSS Basics
 * Git, GitHub, Gitea
 * VS Code IDE
+
 *** 
 
 ## Code example:
