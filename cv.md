@@ -103,9 +103,9 @@ Bachelor at [KazATU](https://kazatu.edu.kz/)
 [w3school](https://www.w3schools.com/)
 ## projects:
 1. [Ascii-Art-Web](https://github.com/AdeptusMilfus/Ascii-Art-Web/tree/main/ascii-art-web)
-2. [Sudoku]()
-3. [Math-skills]()
-4. [Go-reloaded]()
+2. [Sudoku](https://github.com/AdeptusMilfus/Sudoku/tree/main/sudoku)
+3. [Math-skills](https://github.com/AdeptusMilfus/Math-skills/tree/main/Math-skills)
+4. [Go-reloaded](https://github.com/AdeptusMilfus/Go-reloaded/tree/main/Go-reloaded)
 ***
 ## Languages:
 * English - Upper-intermediate/Advanced
