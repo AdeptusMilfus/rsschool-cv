@@ -1,1 +1,2 @@
-https://AdeptusMilfus.github.io/rsschool-cv/cv
+
+https://AdeptusMilfus.github.io/rsschool-cv/

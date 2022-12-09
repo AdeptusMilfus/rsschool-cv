@@ -114,4 +114,3 @@ Bachelor at [KazATU](https://kazatu.edu.kz/)
 * Kazakh - Native
 
 
-
